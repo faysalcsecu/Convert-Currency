@@ -1,5 +1,6 @@
 /* @import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap"); */
-@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,650;1,650&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,650;1,650&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,600&family=Playwrite+DE+Grund:wght@100..400&family=Roboto+Slab:wght@100..900&display=swap");
 
 .App {
   height: 100vh;
@@ -13,7 +14,8 @@
 
 /* hre we go  */
 .heading {
-  font-family: "Pacifico", cursive;
+  /* font-family: "Pacifico", cursive; */
+  font-family: "Playwrite DE Grund", cursive;
   font-size: 35px;
   text-align: center;
 }
